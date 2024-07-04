@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-code/low-code solutions, with a focus on Bubble.io and Airtable. Recently, I have transitioned to coding to expand my skill set and take on more complex projects. I have a strong background in creating efficient, user-friendly applications and integrating various tools and APIs to enhance functionality. I am also proficient in AI Voice Agent (VAPI), which I have used to develop innovative solutions for businesses.
+Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-code/low-code solutions, with a focus on Bubble.io and Airtable. I have a strong background in creating efficient, user-friendly applications and integrating various tools and APIs to enhance functionality. I am also proficient in AI Voice Agent (VAPI), which I have used to develop innovative solutions for businesses.
 
 ## Skills and Expertise
 
@@ -10,12 +10,6 @@ Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-
   - Bubble.io
   - Airtable
   - Xano
-
-- **Coding and Development:**
-  - HTML/CSS
-  - JavaScript
-  - Python
-  - Backend Development
 
 - **AI and Automation:**
   - VAPI Voice AI
@@ -27,29 +21,14 @@ Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-
   - Data Management
   - Backend Logic with Xano
 
+- **Web Development:**
+  - HTML/CSS
+  - JavaScript
+  - Responsive Design
+
 ## Projects
 
-### Current Projects
-
-### 1. Dynamic Web Application with React and Node.js
-- **Description:** Developing a dynamic web application using React for the frontend and Node.js for the backend. The application includes user authentication, data visualization, and real-time updates.
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- **Key Features:**
-  - User authentication and authorization
-  - Interactive data visualization
-  - Real-time updates
-
-### 2. Machine Learning Model Deployment
-- **Description:** Building and deploying a machine learning model to predict customer churn. The project involves data preprocessing, model training, and deploying the model using Flask.
-- **Tech Stack:** Python, Flask, Scikit-learn, Pandas
-- **Key Features:**
-  - Data preprocessing and feature engineering
-  - Model training and evaluation
-  - API for model predictions
-
-### Past Projects
-
-### 3. Next-Gen Lead Management with VAPI Voice AI Assistant
+### 1. Next-Gen Lead Management with VAPI Voice AI Assistant
 - **Description:** Developed a lead management system using VAPI Voice AI for outbound calls integrated with Monday.com. The system automates lead tracking, communication, and sentiment analysis using ChatGPT.
 - **Tech Stack:** VAPI, Monday.com, ChatGPT
 - **Key Features:**
@@ -57,7 +36,7 @@ Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-
   - Custom questions for lead qualification
   - Sentiment analysis and lead status updates
 
-### 4. AI-Powered Virtual Receptionist for Medical Clinics
+### 2. AI-Powered Virtual Receptionist for Medical Clinics
 - **Description:** Created a virtual AI receptionist for medical clinics that handles appointment booking, rescheduling, and inquiries. Integrated with Cliniko and Nookal for seamless operation.
 - **Tech Stack:** VAPI, Cliniko, Nookal
 - **Key Features:**
@@ -65,7 +44,7 @@ Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-
   - Integration with booking management software
   - Custom user dashboard
 
-### 5. Bubble.io and Airtable Integration
+### 3. Bubble.io and Airtable Integration
 - **Description:** Developed a comprehensive application using Bubble.io with Airtable as the main database. The app included features such as dynamic search, data visualization, and user management.
 - **Tech Stack:** Bubble.io, Airtable
 - **Key Features:**
