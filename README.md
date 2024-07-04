@@ -84,7 +84,3 @@ Feel free to reach out to me for any collaboration or project inquiries. I am al
 ## Conclusion
 
 Thank you for visiting my portfolio. I am excited to share my work and look forward to connecting with fellow developers, clients, and collaborators.
-
----
-
-Feel free to modify any section as per your specific details and preferences.
