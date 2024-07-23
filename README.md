@@ -58,7 +58,7 @@ Feel free to reach out to me for any collaboration or project inquiries. I am al
 
 - **Email:** [sadeedameen@gmail.com](mailto:sadeedameen@gmail.com)
 - **LinkedIn:** [Sadeed Ameen](https://www.linkedin.com/in/sadeedameen)
-- **WhatsApp:** [+91 9497713710](https://wa.me/+919497713710)
+- **WhatsApp:** [+91 6282222034](https://wa.me/+916282222034)
 
 ## Conclusion
 
