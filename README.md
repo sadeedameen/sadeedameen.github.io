@@ -56,7 +56,7 @@ Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-
 
 Feel free to reach out to me for any collaboration or project inquiries. I am always open to new opportunities and challenges.
 
-- **Email:** [sadeedameen@gmail.com](mailto:sadeedameen@gmail.com)
+- **Email:** [sadeed@gmail.com](mailto:sadeed@msqaure.pro)
 - **LinkedIn:** [Sadeed Ameen](https://www.linkedin.com/in/sadeedameen)
 - **WhatsApp:** [+91 6282222034](https://wa.me/+916282222034)
 
