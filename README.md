@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-code/low-code solutions, with a focus on Bubble.io and Airtable. I have a strong background in creating efficient, user-friendly applications and integrating various tools and APIs to enhance functionality. I am also proficient in AI Voice Agent (VAPI), which I have used to develop innovative solutions for businesses.
+Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-code/low-code solutions, with a strong focus on Bubble.io and Airtable. I have a proven track record of creating efficient, user-friendly applications and seamlessly integrating various tools and APIs to enhance functionality. My expertise extends to AI Voice Agent (VAPI), where I've developed innovative solutions that drive business success.
 
 ## Skills and Expertise
 
@@ -28,7 +28,23 @@ Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-
 
 ## Projects
 
-### 1. Next-Gen Lead Management with VAPI Voice AI Assistant
+### 1. ExpenseMaster: Intelligent Expense Management System
+- **Description:** Developed an application designed to collect and process expense-related information efficiently. Users can upload invoices in PDF format, and the system automatically parses the documents, regardless of their structure, to populate relevant data fields.
+- **Tech Stack:** Bubble.io, Make (Integromat), OpenAI
+- **Key Features:**
+  - Automated parsing of diverse invoice structures
+  - Dynamic data extraction and population
+  - Integration with Make and OpenAI for enhanced flexibility
+
+### 2. CardCopy: Google Chrome Extension for Real-Time Suggestions
+- **Description:** Created a Google Chrome extension that scrapes data from visited websites and provides real-time suggestions related to payment offers. The extension was developed using Bubble.io and wrapped into a Chrome extension, showcasing the versatility of Bubble in creating browser-based tools.
+- **Tech Stack:** Bubble.io, Make (Integromat), OpenAI
+- **Key Features:**
+  - Real-time web scraping and data processing
+  - Integrated suggestions for relevant offers
+  - Simple, user-friendly interface for managing card details
+
+### 3. Next-Gen Lead Management with VAPI Voice AI Assistant
 - **Description:** Developed a lead management system using VAPI Voice AI for outbound calls integrated with Monday.com. The system automates lead tracking, communication, and sentiment analysis using ChatGPT.
 - **Tech Stack:** VAPI, Monday.com, ChatGPT
 - **Key Features:**
@@ -36,7 +52,7 @@ Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-
   - Custom questions for lead qualification
   - Sentiment analysis and lead status updates
 
-### 2. AI-Powered Virtual Receptionist for Medical Clinics
+### 4. AI-Powered Virtual Receptionist for Medical Clinics
 - **Description:** Created a virtual AI receptionist for medical clinics that handles appointment booking, rescheduling, and inquiries. Integrated with Cliniko and Nookal for seamless operation.
 - **Tech Stack:** VAPI, Cliniko, Nookal
 - **Key Features:**
@@ -44,7 +60,7 @@ Hi! I'm Sadeed Ameen, a passionate and experienced developer specializing in no-
   - Integration with booking management software
   - Custom user dashboard
 
-### 3. Bubble.io and Airtable Integration
+### 5. Bubble.io and Airtable Integration
 - **Description:** Developed a comprehensive application using Bubble.io with Airtable as the main database. The app included features such as dynamic search, data visualization, and user management.
 - **Tech Stack:** Bubble.io, Airtable
 - **Key Features:**
